@@ -18,7 +18,9 @@ namespace WinConfigurator.App
     }
 
     //
-    // %AppData%\Roaming\Microsoft\Windows\Recent\AutomaticDestinations
+    // %APPDATA%\Microsoft\Windows\Recent\AutomaticDestinations\
+    //
+    // %APPDATA%\Microsoft\Windows\Recent\CustomDestinations\
     //
   }
 }
